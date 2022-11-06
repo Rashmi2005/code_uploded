@@ -1,0 +1,25 @@
+NAME=RasHMI sHIMPI
+ROLL NO=93
+prac=2
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>prac2</title>
+</head>
+<body>
+    <h1>lets learn all the formatting tags</h1><hr>
+    <b>this is bold text</b><br>
+    <strong>this text looks bold but we have used strong tag here as this is imp text</strong><br><br>
+    <i>this is italic text</i><br>
+    <em>this is emphasized</em><br>
+    <p>this is normal text</p>
+    <p><small>this is smaller text</small></p>
+    <p>some text is to be <mark>Marked</mark></p>
+    <p> some text is to be <del>deleted</del></p>
+    <p>we can always insert<ins>new text</ins>instead of <del>old one</del></p>
+    <p>this is <sub>subscripted text </sub></p>
+    <P>this is<sup>subscripted text</sup></P>
+</body>
+</html>

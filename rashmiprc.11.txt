@@ -1,0 +1,52 @@
+Name= Rashmi shimpi
+Roll no=93
+prac=11
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>prac4</title>
+    <style>
+div{
+    background-color: aqua(40,45,50);
+    color: black;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 44px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-top-left-radius: 60px;
+    border:5px solid;color:rgb(139, 62, 107);
+}
+
+
+    </style>
+</head>
+<body bgcolor="pink">
+    <h1 style="color:rgb(235, 65, 65);background-color:rgb(121, 193, 218);text-align:center">
+        MYSELf RASHMI<br>
+        
+    </h1>
+    <div>
+        <a href="https://www.linkedin.com/in/rashmi-shimpi-993394252?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By8A9vsJQTfqjvOWk3IpZhQ%3D%3D">
+            Linkedln
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/Rashmi2005/Rashmi2005">
+            Github
+        </a>
+    </div>
+    <div>
+        <a href="rashmishimpi50@gmail.com">
+            Gmail
+        </a>
+    </div>
+    <div>
+        <a href="https://www.snapchat.com/add/priyuuu_princes?share_id=EARz1F1xyko&locale=en-GB">
+            snapchat
+        </a>
+    </div>
+</body>
+</html>
